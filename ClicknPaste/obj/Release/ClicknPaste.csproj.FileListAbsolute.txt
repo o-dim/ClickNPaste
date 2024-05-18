@@ -1,0 +1,10 @@
+D:\개인서류\pjt\ClicknPaste\source\ClicknPaste\ClicknPaste\bin\Release\ClicknPaste.exe.config
+D:\개인서류\pjt\ClicknPaste\source\ClicknPaste\ClicknPaste\bin\Release\ClicknPaste.exe
+D:\개인서류\pjt\ClicknPaste\source\ClicknPaste\ClicknPaste\bin\Release\ClicknPaste.pdb
+D:\개인서류\pjt\ClicknPaste\source\ClicknPaste\ClicknPaste\obj\Release\ClicknPaste.csproj.AssemblyReference.cache
+D:\개인서류\pjt\ClicknPaste\source\ClicknPaste\ClicknPaste\obj\Release\ClicknPaste.ClicknPaste.resources
+D:\개인서류\pjt\ClicknPaste\source\ClicknPaste\ClicknPaste\obj\Release\ClicknPaste.Properties.Resources.resources
+D:\개인서류\pjt\ClicknPaste\source\ClicknPaste\ClicknPaste\obj\Release\ClicknPaste.csproj.GenerateResource.cache
+D:\개인서류\pjt\ClicknPaste\source\ClicknPaste\ClicknPaste\obj\Release\ClicknPaste.csproj.CoreCompileInputs.cache
+D:\개인서류\pjt\ClicknPaste\source\ClicknPaste\ClicknPaste\obj\Release\ClicknPaste.exe
+D:\개인서류\pjt\ClicknPaste\source\ClicknPaste\ClicknPaste\obj\Release\ClicknPaste.pdb
